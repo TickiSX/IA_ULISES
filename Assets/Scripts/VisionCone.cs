@@ -1,3 +1,19 @@
+/*
+ * =====================================================================================
+ *
+ * Filename:  VisionCone.cs
+ *
+ * Description:  Implementa la lógica de un cono de visión para un agente de IA.
+ *
+ * Authors:  Carlos Hernán González
+ * Cesar Sasia Zayas
+ *
+ * Materia:  Inteligencia Artificial e Ingeniería del Conocimiento
+ *
+ *
+ * =====================================================================================
+ */
+
 // VisionCone.cs
 using UnityEngine;
 using System.Collections.Generic; // Para listas de GameObjects detectados

@@ -1,3 +1,20 @@
+/*
+ * =====================================================================================
+ *
+ * Filename:  PlayerController.cs
+ *
+ * Description:  Implementa la lógica de un cono de visión para un agente de IA.
+ *
+ * Authors:  Carlos Hernán González
+ * Cesar Sasia Zayas
+ *
+ * Materia:  Inteligencia Artificial e Ingeniería del Conocimiento
+ *
+ *
+ * =====================================================================================
+ */
+
+
 // PlayerController.cs (o TargetMover.cs)
 using UnityEngine;
 
